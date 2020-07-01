@@ -44,7 +44,7 @@
     "@types/react-dom": "16.0.8",
     "@types/react-redux": "6.0.9",
     "@types/react-test-renderer": "16.0.2",
-    "@types/recompose": "0.26.5",
+    "@types/recompose": "0.30.7",
     "@types/redux-logger": "3.0.6",
     "@types/redux-promise": "0.5.28",
     "babel-loader": "8.0.4",
