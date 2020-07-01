@@ -33,7 +33,7 @@
     "@mdx-js/mdx": "0.15.4",
     "@mizchi/jest-mdx-loader": "0.1.2",
     "@types/enzyme": "3.1.14",
-    "@types/jest": "23.3.2",
+    "@types/jest": "23.3.14",
     "@types/lodash": "4.14.116",
     "@types/node": "10.11.3",
     "@types/pify": "3.0.2",
