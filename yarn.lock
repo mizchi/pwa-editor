@@ -1399,9 +1399,9 @@
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.1.tgz#53f349bb986ab273d601175aa1b25a655ab90ee3"
 
-"@octokit/rest@15.12.1":
-  version "15.12.1"
-  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-15.12.1.tgz#f0dc169f336f8fd05ae8d8c83371b2f0c0dd8de1"
+"@octokit/rest@15.18.3":
+  version "15.18.3"
+  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-15.18.3.tgz#ff4ecbb784ca286c40cc1d568abceda6d99b36fc"
   dependencies:
     before-after-hook "^1.1.0"
     btoa-lite "^1.0.0"
