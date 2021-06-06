@@ -90,7 +90,7 @@
     "workbox-webpack-plugin": "3.6.2"
   },
   "dependencies": {
-    "@blueprintjs/core": "3.6.1",
+    "@blueprintjs/core": "3.45.0",
     "@octokit/rest": "15.12.1",
     "@textlint/kernel": "3.0.0",
     "@textlint/textlint-plugin-markdown": "5.0.0",
